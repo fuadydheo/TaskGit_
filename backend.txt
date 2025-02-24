@@ -1,1 +1,1 @@
-HOME APILogin APIRegister APIUSERS APICOMPANY APISTOCK API
+List Backend API1. Home API2. Login API3. Register API4. Users API5. Company API6. Stock API
