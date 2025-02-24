@@ -1,1 +1,9 @@
-List Backend API1. Home API2. Login API3. Register API4. Users API5. Companies API6. Stocks API7. Payment API
+List Backend API
+1. Home API
+2. Login API
+3. Register API
+4. Users API
+5. Companies API
+6. Stocks API
+7. Payment API
+8. Coba tambah
